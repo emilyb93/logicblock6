@@ -1,0 +1,12 @@
+{
+  "name": "block6",
+  "version": "1.0.0",
+  "description": "The aim of this task it to create a set of functions that are able to check a system of syntax for errors and eventually to autocomplete where syntax is incomplete but correct",
+  "main": "checkBrackets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
